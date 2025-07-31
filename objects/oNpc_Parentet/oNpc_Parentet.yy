@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"oProfesor",
+  "%Name":"oNpc_Parentet",
   "eventList":[],
   "managed":true,
-  "name":"oProfesor",
+  "name":"oNpc_Parentet",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"oNpc_Parentet",
-    "path":"objects/oNpc_Parentet/oNpc_Parentet.yy",
+    "name":"oColisor",
+    "path":"objects/oColisor/oColisor.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sProfessor",
-    "path":"sprites/sProfessor/sProfessor.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

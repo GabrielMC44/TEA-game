@@ -37,7 +37,9 @@
   "name":"TEA game",
   "resources":[
     {"id":{"name":"oColisor","path":"objects/oColisor/oColisor.yy",},},
+    {"id":{"name":"oDialogo","path":"objects/oDialogo/oDialogo.yy",},},
     {"id":{"name":"oJogador","path":"objects/oJogador/oJogador.yy",},},
+    {"id":{"name":"oNpc_Parentet","path":"objects/oNpc_Parentet/oNpc_Parentet.yy",},},
     {"id":{"name":"oProfesor","path":"objects/oProfesor/oProfesor.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sColisor","path":"sprites/sColisor/sColisor.yy",},},
