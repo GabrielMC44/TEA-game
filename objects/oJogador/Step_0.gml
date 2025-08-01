@@ -56,7 +56,15 @@ else if lastdir
 
 	
 
+//Diálogo
 
+if distance_to_object(oNpc_Parentet)<=40{
+	if keyboard_check_pressed(ord("E")){
+		var _npc=instance_nearest(x,y,oNpc_Parentet)
+		var _dialogo=instance_create_layer(x,y,"Dialogos",oDialogo)
+		_dialogo.npc_nome=_npc.nome
+	}
+}
 
 
 
