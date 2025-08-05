@@ -38,6 +38,7 @@
   "resources":[
     {"id":{"name":"fnt_dialogo","path":"fonts/fnt_dialogo/fnt_dialogo.yy",},},
     {"id":{"name":"oColisor","path":"objects/oColisor/oColisor.yy",},},
+    {"id":{"name":"oControler","path":"objects/oControler/oControler.yy",},},
     {"id":{"name":"oDialogo","path":"objects/oDialogo/oDialogo.yy",},},
     {"id":{"name":"oJogador","path":"objects/oJogador/oJogador.yy",},},
     {"id":{"name":"oNpc_Parentet","path":"objects/oNpc_Parentet/oNpc_Parentet.yy",},},
