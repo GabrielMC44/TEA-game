@@ -1,4 +1,4 @@
-window_set_size(854,480)
+window_set_size(1024,576)
 
 velX=0
 velY=0

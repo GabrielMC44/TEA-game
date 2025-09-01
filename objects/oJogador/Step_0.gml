@@ -11,8 +11,10 @@ dir= point_direction(0,0,direita-esquerda,cima-baixo)
 
 velX=lengthdir_x(veloc * press, dir)
 velY=lengthdir_y(veloc * press, dir)
-
+//if !global.dialogo{
 //colisão
+
+if (!global.dialogo){
 if (place_meeting(x + velX, y, oColisor)) {
     while (!place_meeting(x + sign(velX), y, oColisor)) {
         x += sign(velX);
@@ -49,17 +51,22 @@ if press{
 		sprite_index=sJogadorAndandoCosta
 	}	
 }
+
 else if lastdir
 	sprite_index=sJogadorParadoCosta
-	else
+else
 	sprite_index=sJogadorParadoFrente
-
+}
+else if lastdir
+	sprite_index=sJogadorParadoCosta
+else
+	sprite_index=sJogadorParadoFrente
 	
 
 //Diálogo
 
 if distance_to_object(oNpc_Parentet)<=40{
-	if (keyboard_check_pressed(ord("E")) && !global.dialogo ){
+	if (global.tecla && !global.dialogo ){
 		
 		var _npc=instance_nearest(x,y,oNpc_Parentet)
 		var _dialogo=instance_create_layer(x,y,"Dialogos",oDialogo)
