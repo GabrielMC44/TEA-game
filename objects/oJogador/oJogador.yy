@@ -31,12 +31,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sJogadorParadoFrente",
-    "path":"sprites/sJogadorParadoFrente/sJogadorParadoFrente.yy",
+    "name":"sJogadorParadoLado",
+    "path":"sprites/sJogadorParadoLado/sJogadorParadoLado.yy",
   },
   "spriteMaskId":{
-    "name":"sJogadorParadoFrente",
-    "path":"sprites/sJogadorParadoFrente/sJogadorParadoFrente.yy",
+    "name":"sJogadorParadoLado",
+    "path":"sprites/sJogadorParadoLado/sJogadorParadoLado.yy",
   },
   "visible":true,
 }

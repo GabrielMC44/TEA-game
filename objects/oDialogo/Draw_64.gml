@@ -18,22 +18,22 @@ if inicializar == true {
 	//Lado esquerdo
 	if texto_grid[# Infos.Lado, pagina] == 0{
 	draw_rectangle_color(xx+80,yy,guiX,guiY,c,c,c,c,false)
-	draw_text_ext(xx+98,yy+8,texto,16,guiX-76)
-	draw_sprite_ext(sprite,0,42,guiY,1.8,1.8,0,c_white,1)
+	draw_text_ext(xx+105,yy+8,texto,16,guiX-106)
+	draw_sprite_ext(sprite,0,48,guiY,1.8,1.8,0,c_white,1)
 	}
 
-	//Lado esquerdo
+	//Lado direito
 	else{
 	draw_rectangle_color(xx,yy,guiX-60,guiY,c,c,c,c,false)
-	draw_text_ext(xx+8,yy+8,texto,16,guiX-76)
-	draw_sprite_ext(sprite,0,guiX-32,guiY,2,2,0,c_white,1)
+	draw_text_ext(xx+8,yy+8,texto,16,guiX-106)
+	draw_sprite_ext(sprite,0,guiX-46,guiY,2,2,0,c_white,1)
 	}
 	
 	if op_draw {
 		opx = xx + 32
 		opy = yy - 40
 		opsep = 30
-		opborda = 6
+		opborda = 8
 		
 		op_selecionada += keyboard_check_pressed(ord("W")) - keyboard_check_pressed(ord("Ss"))
 		op_selecionada = clamp(op_selecionada,0,op_num-1)

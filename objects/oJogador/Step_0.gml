@@ -35,32 +35,32 @@ y -= velY;
 // Sprite
 if press{
 	if esquerda{
-		sprite_index=sJogadorAndandoCosta
-		image_xscale=-1
+		sprite_index=sJogadorAndandoLado
+		image_xscale=-2
 	}
 	if direita{
-		sprite_index=sJogadorAndandoCosta
-		image_xscale=1
+		sprite_index=sJogadorAndandoLado
+		image_xscale=2
 	}
 	if cima{
 		lastdir=1
-		sprite_index=sJogadorAndandoCosta
+		sprite_index=sJogadorAndandoCosta_
 	}
 	if baixo{
 		lastdir=0
-		sprite_index=sJogadorAndandoCosta
+		sprite_index=sJogadorAndandoFrente_
 	}	
 }
 
 else if lastdir
-	sprite_index=sJogadorParadoCosta
+	sprite_index=sJogadorParadoCosta_
 else
-	sprite_index=sJogadorParadoFrente
+	sprite_index=sJogadorParadoLado
 }
 else if lastdir
-	sprite_index=sJogadorParadoCosta
+	sprite_index=sJogadorParadoCosta_
 else
-	sprite_index=sJogadorParadoFrente
+	sprite_index=sJogadorParadoLado
 	
 
 //Diálogo
