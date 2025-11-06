@@ -4,7 +4,7 @@ if inicializar == true {
 	guiY=display_get_gui_height()
 
 	xx= 0
-	yy= guiY-100
+	yy= guiY-60
 
 	c=c_black
 	
@@ -17,9 +17,9 @@ if inicializar == true {
 
 	//Lado esquerdo
 	if texto_grid[# Infos.Lado, pagina] == 0{
-	draw_rectangle_color(xx+80,yy,guiX,guiY,c,c,c,c,false)
-	draw_text_ext(xx+105,yy+8,texto,16,guiX-106)
-	draw_sprite_ext(sprite,0,48,guiY,1.8,1.8,0,c_white,1)
+	draw_rectangle_color(xx+50,yy,guiX,guiY,c,c,c,c,false)
+	draw_text_ext(xx+105,yy+8,texto,10,guiX-106)
+	draw_sprite_ext(sprite,0,48,guiY,1.2,1.2,0,c_white,1)
 	}
 
 	//Lado direito

@@ -36,17 +36,17 @@ y -= velY;
 if press{
 	if esquerda{
 		sprite_index=sJogadorAndandoLado
-		image_xscale=-2
+		image_xscale=-1
 	}
-	if direita{
+	else if direita{
 		sprite_index=sJogadorAndandoLado
-		image_xscale=2
+		image_xscale=1
 	}
-	if cima{
+	else if cima{
 		lastdir=1
 		sprite_index=sJogadorAndandoCosta_
 	}
-	if baixo{
+	else if baixo{
 		lastdir=0
 		sprite_index=sJogadorAndandoFrente_
 	}	
@@ -57,11 +57,10 @@ else if lastdir
 else
 	sprite_index=sJogadorParadoLado
 }
-else if lastdir
-	sprite_index=sJogadorParadoCosta_
-else
+else if lastdir 
+	sprite_index=sJogadorParadoCosta_ 
+else 
 	sprite_index=sJogadorParadoLado
-	
 
 //Diálogo
 
@@ -74,6 +73,7 @@ if distance_to_object(oNpc_Parentet)<=40{
 	}
 }
 
+depth= -bbox_bottom
 
 
 
