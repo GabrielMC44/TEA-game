@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"pProfessor3",
+  "closed":true,
+  "kind":1,
+  "name":"pProfessor3",
+  "parent":{
+    "name":"Path",
+    "path":"folders/Path.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":222.0,"y":256.0,},
+    {"speed":100.0,"x":255.0,"y":256.0,},
+    {"speed":100.0,"x":254.0,"y":227.0,},
+    {"speed":100.0,"x":226.0,"y":223.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

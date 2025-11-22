@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sJogadorAndandoCosta",
   "bboxMode":2,
   "bbox_bottom":22,
@@ -12,12 +12,12 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"44867d92-3574-4f25-8c93-36d8c75a43f3","name":"44867d92-3574-4f25-8c93-36d8c75a43f3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d2d4e737-3b9e-43d5-82a5-9040918e5edf","name":"d2d4e737-3b9e-43d5-82a5-9040918e5edf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"018f7a76-0f3f-4e0e-ad8e-dc70597094f4","name":"018f7a76-0f3f-4e0e-ad8e-dc70597094f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"89174533-0c49-4616-b624-6f2454a55809","name":"89174533-0c49-4616-b624-6f2454a55809","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f3b9ffa7-d93b-4e9c-a267-f3e289c2ebc4","name":"f3b9ffa7-d93b-4e9c-a267-f3e289c2ebc4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9d59e415-d03b-45e2-965d-f167c3161ff8","name":"9d59e415-d03b-45e2-965d-f167c3161ff8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"44867d92-3574-4f25-8c93-36d8c75a43f3","name":"44867d92-3574-4f25-8c93-36d8c75a43f3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d2d4e737-3b9e-43d5-82a5-9040918e5edf","name":"d2d4e737-3b9e-43d5-82a5-9040918e5edf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"018f7a76-0f3f-4e0e-ad8e-dc70597094f4","name":"018f7a76-0f3f-4e0e-ad8e-dc70597094f4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"89174533-0c49-4616-b624-6f2454a55809","name":"89174533-0c49-4616-b624-6f2454a55809","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f3b9ffa7-d93b-4e9c-a267-f3e289c2ebc4","name":"f3b9ffa7-d93b-4e9c-a267-f3e289c2ebc4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9d59e415-d03b-45e2-965d-f167c3161ff8","name":"9d59e415-d03b-45e2-965d-f167c3161ff8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -75,24 +75,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"44867d92-3574-4f25-8c93-36d8c75a43f3","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6f22ae77-c7a8-42d2-95b4-5770d8ad6f10","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d2d4e737-3b9e-43d5-82a5-9040918e5edf","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"05af86aa-1d14-4bff-a597-5f2766b36f90","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"018f7a76-0f3f-4e0e-ad8e-dc70597094f4","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"46f3be8d-0882-4ccc-a2ec-ff447e992fe4","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"89174533-0c49-4616-b624-6f2454a55809","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9013d2b9-256e-4e2e-872a-636c2248ebaf","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f3b9ffa7-d93b-4e9c-a267-f3e289c2ebc4","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"81f5a8cb-3aca-4aa9-8487-3097281897de","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d59e415-d03b-45e2-965d-f167c3161ff8","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"04b54e9d-eb18-47d1-af97-f3c7d62f549f","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"44867d92-3574-4f25-8c93-36d8c75a43f3","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6f22ae77-c7a8-42d2-95b4-5770d8ad6f10","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d2d4e737-3b9e-43d5-82a5-9040918e5edf","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"05af86aa-1d14-4bff-a597-5f2766b36f90","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"018f7a76-0f3f-4e0e-ad8e-dc70597094f4","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"46f3be8d-0882-4ccc-a2ec-ff447e992fe4","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"89174533-0c49-4616-b624-6f2454a55809","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"9013d2b9-256e-4e2e-872a-636c2248ebaf","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f3b9ffa7-d93b-4e9c-a267-f3e289c2ebc4","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"81f5a8cb-3aca-4aa9-8487-3097281897de","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d59e415-d03b-45e2-965d-f167c3161ff8","path":"sprites/sJogadorAndandoCosta/sJogadorAndandoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"04b54e9d-eb18-47d1-af97-f3c7d62f549f","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

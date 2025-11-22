@@ -1,0 +1,15 @@
+{
+  "$GMPath":"",
+  "%Name":"pStop",
+  "closed":false,
+  "kind":0,
+  "name":"pStop",
+  "parent":{
+    "name":"Path",
+    "path":"folders/Path.yy",
+  },
+  "points":[],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
