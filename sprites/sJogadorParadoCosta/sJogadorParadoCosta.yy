@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sJogadorParadoCosta",
   "bboxMode":2,
   "bbox_bottom":23,
@@ -12,11 +12,11 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"da9175a6-547e-4ab2-a6fc-fe6ba29072aa","name":"da9175a6-547e-4ab2-a6fc-fe6ba29072aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"930be433-3a71-4e6d-9ae1-340824236051","name":"930be433-3a71-4e6d-9ae1-340824236051","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"38c9ad6a-649b-4842-a0ae-cf07f9c1a3e6","name":"38c9ad6a-649b-4842-a0ae-cf07f9c1a3e6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9d19f125-df31-4e17-a189-83bb9d852292","name":"9d19f125-df31-4e17-a189-83bb9d852292","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"bbb678a3-9ab9-4dc8-94cc-ac4e0ed7fdf8","name":"bbb678a3-9ab9-4dc8-94cc-ac4e0ed7fdf8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"da9175a6-547e-4ab2-a6fc-fe6ba29072aa","name":"da9175a6-547e-4ab2-a6fc-fe6ba29072aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"930be433-3a71-4e6d-9ae1-340824236051","name":"930be433-3a71-4e6d-9ae1-340824236051","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"38c9ad6a-649b-4842-a0ae-cf07f9c1a3e6","name":"38c9ad6a-649b-4842-a0ae-cf07f9c1a3e6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9d19f125-df31-4e17-a189-83bb9d852292","name":"9d19f125-df31-4e17-a189-83bb9d852292","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bbb678a3-9ab9-4dc8-94cc-ac4e0ed7fdf8","name":"bbb678a3-9ab9-4dc8-94cc-ac4e0ed7fdf8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -74,21 +74,11 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"da9175a6-547e-4ab2-a6fc-fe6ba29072aa","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b1b6c125-4768-4494-a14a-5bd233414ad0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"930be433-3a71-4e6d-9ae1-340824236051","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0fb84d08-6f09-4355-aef0-37f254a3457d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"38c9ad6a-649b-4842-a0ae-cf07f9c1a3e6","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"16ebd77e-3ed6-440f-8be6-2cb588a5d80c","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d19f125-df31-4e17-a189-83bb9d852292","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"66a581db-9366-40bc-bc22-b75f6a79e1bd","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bbb678a3-9ab9-4dc8-94cc-ac4e0ed7fdf8","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"69f5f39b-dc36-4ac7-ba0e-9614fa884562","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"da9175a6-547e-4ab2-a6fc-fe6ba29072aa","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b1b6c125-4768-4494-a14a-5bd233414ad0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"930be433-3a71-4e6d-9ae1-340824236051","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0fb84d08-6f09-4355-aef0-37f254a3457d","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"38c9ad6a-649b-4842-a0ae-cf07f9c1a3e6","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"16ebd77e-3ed6-440f-8be6-2cb588a5d80c","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9d19f125-df31-4e17-a189-83bb9d852292","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"66a581db-9366-40bc-bc22-b75f6a79e1bd","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"bbb678a3-9ab9-4dc8-94cc-ac4e0ed7fdf8","path":"sprites/sJogadorParadoCosta/sJogadorParadoCosta.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"69f5f39b-dc36-4ac7-ba0e-9614fa884562","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

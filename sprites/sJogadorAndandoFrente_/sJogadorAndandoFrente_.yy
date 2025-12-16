@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sJogadorAndandoFrente_",
   "bboxMode":2,
   "bbox_bottom":15,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c11a729b-d0cb-4a99-a240-927657d0e7e7","name":"c11a729b-d0cb-4a99-a240-927657d0e7e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3c251edb-2bdc-4467-b4c8-e135ab608272","name":"3c251edb-2bdc-4467-b4c8-e135ab608272","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"04d23d52-359b-4798-8483-7e9c8515e8f3","name":"04d23d52-359b-4798-8483-7e9c8515e8f3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"522509ec-dbfd-4628-8a39-881667619fec","name":"522509ec-dbfd-4628-8a39-881667619fec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d0ac351f-1abe-4dd2-8ffa-c5fdffc3c1f7","name":"d0ac351f-1abe-4dd2-8ffa-c5fdffc3c1f7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"92aebff9-0eb3-4d20-8a58-fb05d9b1c619","name":"92aebff9-0eb3-4d20-8a58-fb05d9b1c619","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"67d60eab-078c-4eb3-8160-36510d0aea74","name":"67d60eab-078c-4eb3-8160-36510d0aea74","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3bf7a1f8-ef2e-46f8-9b32-e09c60007436","name":"3bf7a1f8-ef2e-46f8-9b32-e09c60007436","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c11a729b-d0cb-4a99-a240-927657d0e7e7","name":"c11a729b-d0cb-4a99-a240-927657d0e7e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3c251edb-2bdc-4467-b4c8-e135ab608272","name":"3c251edb-2bdc-4467-b4c8-e135ab608272","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"04d23d52-359b-4798-8483-7e9c8515e8f3","name":"04d23d52-359b-4798-8483-7e9c8515e8f3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"522509ec-dbfd-4628-8a39-881667619fec","name":"522509ec-dbfd-4628-8a39-881667619fec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d0ac351f-1abe-4dd2-8ffa-c5fdffc3c1f7","name":"d0ac351f-1abe-4dd2-8ffa-c5fdffc3c1f7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"92aebff9-0eb3-4d20-8a58-fb05d9b1c619","name":"92aebff9-0eb3-4d20-8a58-fb05d9b1c619","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"67d60eab-078c-4eb3-8160-36510d0aea74","name":"67d60eab-078c-4eb3-8160-36510d0aea74","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3bf7a1f8-ef2e-46f8-9b32-e09c60007436","name":"3bf7a1f8-ef2e-46f8-9b32-e09c60007436","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -40,13 +40,7 @@
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
     "right":0,
-    "tileMode":[
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
+    "tileMode":[0,0,0,0,0,],
     "top":0,
   },
   "origin":4,
@@ -96,30 +90,14 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c11a729b-d0cb-4a99-a240-927657d0e7e7","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"54ae8dd7-7560-419d-ab25-d5f2c9441dcb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3c251edb-2bdc-4467-b4c8-e135ab608272","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"173ebc64-f5c0-41f7-aa10-802ef5e71f77","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04d23d52-359b-4798-8483-7e9c8515e8f3","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"82ec5a4a-15cd-4b05-9e5c-02fb17c4aba0","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"522509ec-dbfd-4628-8a39-881667619fec","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"72447570-f1e9-4d4e-9e86-b597b6f9d208","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0ac351f-1abe-4dd2-8ffa-c5fdffc3c1f7","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"92e6ca67-f9fe-4178-b623-5f0fda5f6e8d","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"92aebff9-0eb3-4d20-8a58-fb05d9b1c619","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"29d84e9c-89c7-42c9-979e-b03c42df78a1","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"67d60eab-078c-4eb3-8160-36510d0aea74","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1e131883-f8c0-4297-a22a-5d6b93313936","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3bf7a1f8-ef2e-46f8-9b32-e09c60007436","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6ea257b4-82e3-4373-aec6-fbb318220690","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c11a729b-d0cb-4a99-a240-927657d0e7e7","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"54ae8dd7-7560-419d-ab25-d5f2c9441dcb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3c251edb-2bdc-4467-b4c8-e135ab608272","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"173ebc64-f5c0-41f7-aa10-802ef5e71f77","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"04d23d52-359b-4798-8483-7e9c8515e8f3","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"82ec5a4a-15cd-4b05-9e5c-02fb17c4aba0","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"522509ec-dbfd-4628-8a39-881667619fec","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"72447570-f1e9-4d4e-9e86-b597b6f9d208","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d0ac351f-1abe-4dd2-8ffa-c5fdffc3c1f7","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"92e6ca67-f9fe-4178-b623-5f0fda5f6e8d","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"92aebff9-0eb3-4d20-8a58-fb05d9b1c619","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"29d84e9c-89c7-42c9-979e-b03c42df78a1","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"67d60eab-078c-4eb3-8160-36510d0aea74","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1e131883-f8c0-4297-a22a-5d6b93313936","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3bf7a1f8-ef2e-46f8-9b32-e09c60007436","path":"sprites/sJogadorAndandoFrente_/sJogadorAndandoFrente_.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6ea257b4-82e3-4373-aec6-fbb318220690","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
